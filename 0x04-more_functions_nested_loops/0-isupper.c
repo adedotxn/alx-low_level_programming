@@ -5,6 +5,7 @@
  * Returns 0 otherwise
  * isupper - A function that checks for uppercase character.
  */
-int _isupper(int c){
+int _isupper(int c)
+{
 	return (c >= 65 && c <= 90);
 }
